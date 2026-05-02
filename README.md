@@ -15,9 +15,9 @@ Traditional recruitment systems often involve repetitive manual
 screening, inconsistent data handling, and lack of real-time insights.
 CareerConnect addresses these challenges by:
 
--   Automating candidate evaluation\
--   Ensuring data consistency across hiring stages\
--   Providing a centralized platform for recruiters and applicants\
+-   Automating candidate evaluation
+-   Ensuring data consistency across hiring stages
+-   Providing a centralized platform for recruiters and applicants
 -   Enabling real-time job and application management
 
 ------------------------------------------------------------------------
@@ -26,28 +26,28 @@ CareerConnect addresses these challenges by:
 
 ### 1️⃣ Automated Applicant Tracking System (ATS)
 
--   Rule-Based Screening Engine\
--   Real-Time Processing\
+-   Rule-Based Screening Engine
+-   Real-Time Processing
 -   Customizable Logic
 
 ### 2️⃣ Candidate Application System
 
--   Dynamic job listings\
--   Application forms with validation\
--   Secure submission using Servlets\
+-   Dynamic job listings
+-   Application forms with validation
+-   Secure submission using Servlets
 -   Instant feedback
 
 ### 3️⃣ Admin Control Panel
 
--   Session-based authentication\
--   Job management (CRUD)\
--   Seat count automation\
+-   Session-based authentication
+-   Job management (CRUD)
+-   Seat count automation
 -   Application monitoring
 
 ### 4️⃣ Data Persistence & Transaction Handling
 
--   JDBC integration with MySQL\
--   Tables: Jobs, Applications\
+-   JDBC integration with MySQL
+-   Tables: Jobs, Applications
 -   Transaction integrity
 
 ------------------------------------------------------------------------
@@ -56,56 +56,58 @@ CareerConnect addresses these challenges by:
 
 MVC Architecture:
 
--   Model: MySQL + JDBC\
--   View: JSP, HTML, CSS\
+-   Model: MySQL + JDBC
+-   View: JSP, HTML, CSS
 -   Controller: Servlets
 
 ------------------------------------------------------------------------
 
 ## 🛠️ Technology Stack
 
-Frontend: HTML, CSS, JavaScript\
-Backend: Java, Servlets, JSP\
-Server: Tomcat 11\
+Frontend: HTML, CSS, JavaScript
+Backend: Java, Servlets, JSP
+Server: Tomcat 11
 Database: MySQL
 
 ------------------------------------------------------------------------
 
 ## ⚙️ Setup & Installation
 
-1.  Clone repo\
-2.  Setup database\
-3.  Configure DBConnection\
+1.  Clone repo
+2.  Setup database
+3.  Configure DBConnection
 4.  Run using NetBeans
 
 ------------------------------------------------------------------------
 
 ## 🔐 Security Features
 
--   Session authentication\
--   Input validation\
+-   Session authentication
+-   Input validation
 -   Secure DB operations
 
 ------------------------------------------------------------------------
 
 ## 📈 Future Enhancements
 
--   NLP Resume parsing\
--   AI ranking\
--   Email notifications\
+-   NLP Resume parsing
+-   AI ranking
+-   Email notifications
 -   Cloud deployment
 
 ------------------------------------------------------------------------
 
 ## 🎯 Learning Outcomes
 
--   Jakarta EE\
--   MVC\
--   JDBC & MySQL\
+-   Jakarta EE
+-   MVC
+-   JDBC & MySQL
 -   Backend development
 
 ------------------------------------------------------------------------
 
-## ⭐ Acknowledgment
+## ⭐ Contribution
 
-Give a ⭐ if you like this project!
+-   Ashaaz Ahmed Khan A
+-   Balaji A D J
+-   Ammar M
